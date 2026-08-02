@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "OCqUEXmC5xY7r3-UjAg-O"
+uri = "file://expo-qr.png"
+type = "image"
+title = "SocietyOne — Scan with Expo Go"
